@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vanderdavidcar
 - 👀 I’m interested in Cyber Security, DevOps and DevNet.
-- 🌱 I’m currently learning some DevOps concepts and DevNet. I use network automation language as Python, Napalm, Ansible, Jinja2 and everything that     involve automation process. Started learn IaC (Infrastructure as Code) like Terraform to implement workloads in multicloud environment. Always learning something new to add value for the company and customers need.
+- 🌱 I’m currently learning some DevOps concepts and DevNet. I use network automation language as Python, Napalm, Ansible, Jinja2 and everything that     involve automation process. Started learn IaC (Infrastructure as Code) like Terraform to implement workloads in multicloud environment. Always learning something new to add value for the company and customers need. Started a project SoT (Source of Truth) to automate Netbox environment with Pynetbox, Netmiko and Napalm via Rest API updating and query netbox data. 
+
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me vander_davidcar@yahoo.com.br
 
