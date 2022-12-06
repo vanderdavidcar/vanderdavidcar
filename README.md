@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @vanderdavidcar
-- 👀 I’m interested in Cyber Security, DevOps and DevNet.
-- 🌱 I’m currently learning some DevOps concepts and DevNet. I use network automation language as Python, Napalm, Ansible, Jinja2 and everything that     involve automation process. Learn IaC (Infrastructure as Code) like Terraform to implement workloads in multicloud environment. Always learning something new to add value for the company and customers need. Start a project SoT (Source of Truth) to automate Netbox environment with Pynetbox, Netmiko and Napalm via Rest API updating and query netbox data. 
+# 👋 Hey there!
 
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me vander_davidcar@yahoo.com.br
+I'm Vanderson, I'm a Network Specialyst looking to solve real-world problems. I'm passionate about making solutions to solve problems, creating tools to help people.
+
+## 👀 Things that I'm working on...
+
+- Development a project SoT (Source of Truth) to automate Netbox environment with Pynetbox, Netmiko and Napalm via Rest API updating and query netbox data.
+- Learning DevOps concepts
+- Learning IaC (Infrastructure as Code) like Terraform to implement workloads in multicloud environment
+
+## 📫 How to reach me?
+
+vander_davidcar@yahoo.com.br
 
 <!---
 vanderdavidcar/vanderdavidcar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
