@@ -2,7 +2,7 @@
 
 I'm Vanderson, I'm a Network Architect looking to solve real-world problems. I'm passionate about making solutions to solve problems, creating tools to help people and make environment network secure.
 
-Postgraduated in Cyber Security where I've learned a little bit how to hacking to understand as hackers thinks about explore vulnerabilities.
+Postgraduated in Cyber Security where I've learned a little bit how to hacking and understand how hackers thinks about explore vulnerabilities.
 
 
 ## 👀 Things that I'm working on...
