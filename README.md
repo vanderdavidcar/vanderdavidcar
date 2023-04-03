@@ -10,8 +10,9 @@ Postgraduated in Cyber Security where I've learned a little bit how to hacking a
 
 ![python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![ansible Badge](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible&logoColor=white)
-![aws Badge](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=AWS&logoColor=white)
-![azure Badge](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=AZURE&logoColor=white)
+![aws Badge](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=aws&logoColor=white)
+![azure Badge](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=zazure&logoColor=white)
+![fortinet Badge](https://img.shields.io/badge/-fortinet-red?style=flat-square&logo=fortinet&logoColor=white)
 
 - Development a project SoT (Source of Truth) to automate Netbox environment with Pynetbox, Netmiko and Napalm via Rest API updating and query netbox data.
 - Learning DevOps concepts
