@@ -8,6 +8,8 @@ I'm Vanderson, I'm a Network Architect looking to solve real-world problems. I'm
 Postgraduated in Cyber Security where I've learned a little bit how to hacking and understand how hackers thinks about explore vulnerabilities.
 ## 👀 Things that I'm working on...
 
+[![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Linkedin&logoColor=white)
+
 - Development a project SoT (Source of Truth) to automate Netbox environment with Pynetbox, Netmiko and Napalm via Rest API updating and query netbox data.
 - Learning DevOps concepts
 - Learning IaC (Infrastructure as Code) like Terraform to implement workloads in multicloud environment
