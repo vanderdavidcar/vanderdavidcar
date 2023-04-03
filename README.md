@@ -1,11 +1,11 @@
 # 👋 Hey there!
-
-I'm Vanderson, I'm a Network Architect looking to solve real-world problems. I'm passionate about making solutions to solve problems, creating tools to help people and make environment network secure.
-
-Postgraduated in Cyber Security where I've learned a little bit how to hacking and understand how hackers thinks about explore vulnerabilities.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vanderdavidcar)](https://github.com/vanderdavidcar)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanderson-cardoso-1878a752/)](https://www.linkedin.com/in/vanderson-cardoso-1878a752/)
 
+## About me
+I'm Vanderson, I'm a Network Architect looking to solve real-world problems. I'm passionate about making solutions to solve problems, creating tools to help people and make environment network secure.
+
+Postgraduated in Cyber Security where I've learned a little bit how to hacking and understand how hackers thinks about explore vulnerabilities.
 ## 👀 Things that I'm working on...
 
 - Development a project SoT (Source of Truth) to automate Netbox environment with Pynetbox, Netmiko and Napalm via Rest API updating and query netbox data.
