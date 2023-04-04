@@ -14,6 +14,7 @@ Postgraduated in Cyber Security where I've learned a little bit how to hacking a
 ![aws Badge](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=aws&logoColor=white)
 ![azure Badge](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=zazure&logoColor=white)
 ![fortinet Badge](https://img.shields.io/badge/-fortinet-red?style=flat-square&logo=fortinet&logoColor=white)
+![terraform Badge](https://img.shields.io/badge/-terraform-purple?style=flat-square&logo=terraform&logoColor=white)
 
 - Development a project SoT (Source of Truth) to automate Netbox environment with Pynetbox, Netmiko and Napalm via Rest API updating and query netbox data.
 - Learning DevOps concepts
