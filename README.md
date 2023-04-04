@@ -10,11 +10,12 @@ Postgraduated in Cyber Security where I've learned a little bit how to hacking a
 
 ![python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![ansible Badge](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible&logoColor=white)
+![terraform Badge](https://img.shields.io/badge/-terraform-purple?style=flat-square&logo=terraform&logoColor=white)
 ![cisco Badge](https://img.shields.io/badge/-cisco-blue?style=flat-square&logo=cisco&logoColor=white)
 ![aws Badge](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=aws&logoColor=white)
-![azure Badge](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=zazure&logoColor=white)
-![fortinet Badge](https://img.shields.io/badge/-fortinet-red?style=flat-square&logo=fortinet&logoColor=white)
-![terraform Badge](https://img.shields.io/badge/-terraform-purple?style=flat-square&logo=terraform&logoColor=white)
+![azure Badge](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=azure&logoColor=white)
+![nse7 Badge](https://img.shields.io/badge/-nse7-red?style=flat-square&logo=nse7&logoColor=white)
+
 
 - Development a project SoT (Source of Truth) to automate Netbox environment with Pynetbox, Netmiko and Napalm via Rest API updating and query netbox data.
 - Learning DevOps concepts
