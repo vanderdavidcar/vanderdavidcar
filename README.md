@@ -16,7 +16,7 @@ Postgraduated in Cyber Security where I've learned a little bit how to hacking a
 ![fortnet Badge](https://img.shields.io/badge/-fortinet-red?style=flat-square&logo=fortinet&logoColor=white)
 
 
-- Development a project SoT (Source of Truth) to automate Netbox environment with Pynetbox, Netmiko and Napalm via Rest API updating and query netbox data.
+- Using SoT (Source of Truth) to automate Netbox environment with Pynetbox, Netmiko and Napalm via Rest API updating and query netbox data.
 - Learning DevOps concepts
 - Learning IaC (Infrastructure as Code) like Terraform to implement workloads in multicloud environment
 
