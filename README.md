@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanderson-cardoso-1878a752/)](https://www.linkedin.com/in/vanderson-cardoso-1878a752/)
 
 ## About me
-My is Vanderson, I'm a Network Architect looking to solve real-world problems. I'm passionate about making solutions to solve problems, creating tools to help people and make environment network secure.
+My name is Vanderson, I'm a Network Architect looking to solve real-world problems. I'm passionate about making solutions to solve problems, creating tools to help people and make environment network secure.
 
 Postgraduated in Cyber Security where I've learned a little bit how to hacking and understand how hackers thinks about explore vulnerabilities.
 ## 👀 Things that I'm working on...
